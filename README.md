@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Building MERN Stack Apps**
 
-- 🌱 I’m currently learning **React,Php**
+- 🌱 I’m currently learning **React,Php,TypeScript**
 
 - 📫 How to reach me **emmaojile99@gmail.com**
 
