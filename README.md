@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Ojile</h1>
-<div align="center"><img src="https://raw.githubusercontent.com/Emmyojile/Emmyojile/main/Dp.jpg"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Emmyojile/Emmyojile/main/Dp.jpg" width="300" /></div>
 <h3 align="center">A passionate FullStack developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvix/master/gif3.gif"/>
 
