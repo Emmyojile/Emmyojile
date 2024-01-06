@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Building Mern Stack Apps**
 
-- 🌱 I’m currently learning **Nextjs,Typescript,Postgresql**
+- 🌱 I’m currently learning **Nextjs,Typescript,React-Native**
 
 - 💬 Ask me about **React,NodeJs,**
 
