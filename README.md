@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmyojile&label=Profile%20views&color=0e75b6&style=flat" alt="emmyojile" /> </p>
 
-- 🔭 I’m currently working on **Building Mern Stack Apps**
+- 🔭 I’m currently working on **Building Modern Seamless Software Appplications**
 
-- 🌱 I’m currently learning **Nextjs,Typescript,React-Native**
+- 🌱 I’m currently learning **Typescript,React-Native**
 
-- 💬 Ask me about **React,NodeJs,**
+- 💬 Ask me about **React,NodeJs,Nextjs**
 
 - 📫 How to reach me **emmaojile99@gmail.com**
 
